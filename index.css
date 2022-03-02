@@ -1,0 +1,14 @@
+.input-container{
+    display: flex;
+}
+
+.output-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.other-style{
+    height: 100vh;
+}
+
